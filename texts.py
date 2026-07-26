@@ -98,3 +98,4 @@ ADMIN_TODAY = (
 ADMIN_ALL_EMPTY = "Активных броней нет."
 
 NOT_ADMIN = "⛔ Нет доступа."
+
